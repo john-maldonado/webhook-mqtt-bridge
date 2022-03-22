@@ -1,0 +1,13 @@
+{
+  "name": "webhook-mqtt-bridge",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mqtt": "^4.3.6"
+  },
+  "devDependencies": {}
+}
